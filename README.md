@@ -33,3 +33,6 @@ Customers were successfully segmented into 5 distinct groups based on income and
 - `mall_customers.csv` — raw dataset
 - `mall_customers_segmented.csv` — final segmented dataset
 - `distributions.png`, `gender_split.png`, `elbow_curve.png`, `customer_clusters.png`, `segment_distribution.png` — visualizations
+
+## Demo Video
+[Watch the demo](https://drive.google.com/file/d/1ybdMLuKhT3ObXll_JRl-yXjzEN2gKMC-/view?usp=drive_link)
